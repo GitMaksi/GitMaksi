@@ -37,5 +37,5 @@
 Check out my music on Spotify: <a href="https://open.spotify.com/artist/6vE33O9Nm4LQATiYEM2JQb">Listen here</a>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=twojanazwauzytkownika&show_icons=true&theme=radical" alt="twojanazwauzytkownika's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GitMaksi&show_icons=true&theme=radical" alt="twojanazwauzytkownika's GitHub Stats" />
 </p>
