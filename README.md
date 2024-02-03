@@ -36,11 +36,3 @@
 ## Human Tormention - Listen on Spotify
 Check out my music on Spotify: <a href="https://open.spotify.com/artist/6vE33O9Nm4LQATiYEM2JQb">Listen here</a>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GitMaksi&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="GitMaksi's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitMaksi&hide=html,css&langs_count=10&layout=compact&theme=radical" alt="twojanazwauzytkownika's Most Used Languages" />
-</p>
-
