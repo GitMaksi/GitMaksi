@@ -1,4 +1,4 @@
-<h1 align="center">Witaj na moim profilu GitHub 👋, jestem Maksymilian!</h1>
+<h1 align="center">Welcome to my GitHub Profile 👋, I'm Maksymilian!</h1>
 
 <p align="center">
   <a href="https://app.daily.dev/maxii">
@@ -7,29 +7,29 @@
 </p>
 
 <p align="center">
-  🔭 Pracuję obecnie nad kilkoma super projektami open source!<br>
-  🌱 Uczę się nowych technologii i ciągle rozwijam swoje umiejętności.<br>
-  👯 Chętnie współpracuję z innymi programistami.<br>
-  🤔 Szukam pomocy przy zaawansowanych projektach AI.<br>
-  💬 Zapytaj mnie o cokolwiek, chętnie podzielę się moją wiedzą!<br>
-  📫 Jak się ze mną skontaktować: [Twój e-mail]<br>
-  ⚡ Fakt o mnie: Uwielbiam kawę i hackathony!<br>
+  🔭 Currently working on several awesome open source projects!<br>
+  🌱 Learning new technologies and continuously improving my skills.<br>
+  👯 Looking to collaborate with other developers.<br>
+  🤔 Seeking help with advanced AI projects.<br>
+  💬 Ask me anything, happy to share my knowledge!<br>
+  📫 How to reach me: [Your email]<br>
+  ⚡ Fun fact: I love coffee and hackathons!<br>
 </p>
 
 <p align="center">
-  🏆 Moje osiągnięcia:<br>
-  - Wygrana w lokalnym hackathonie<br>
-  - Współtwórca popularnego projektu open source<br>
+  🏆 My Achievements:<br>
+  - Winner of a local hackathon<br>
+  - Co-creator of a popular open source project<br>
 </p>
 
 <p align="center">
-  🛠️ Moje ulubione narzędzia i technologie:<br>
+  🛠️ My Favorite Tools and Technologies:<br>
   - JavaScript, React, Node.js<br>
   - Python, TensorFlow, Keras<br>
 </p>
 
 <p align="center">
-  🔗 Linki do moich mediów społecznościowych:<br>
-  - [LinkedIn](Twój link LinkedIn)<br>
-  - [Twitter](Twój link Twitter)<br>
+  🔗 Links to my social media:<br>
+  - [LinkedIn](Your LinkedIn link)<br>
+  - [Twitter](Your Twitter link)<br>
 </p>
