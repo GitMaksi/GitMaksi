@@ -28,9 +28,14 @@
       <p>
         🔗 Links to my social media:<br>
         - <a href="https://www.linkedin.com/in/maks-sudo%C5%82-044927142/">LinkedIn</a><br>
-        ## Human Tormention - Listen on Spotify
-        Check out my music on Spotify: <a href="https://open.spotify.com/artist/6vE33O9Nm4LQATiYEM2JQb">Listen here</a>
       </p>
     </td>
   </tr>
 </table>
+
+## Human Tormention - Listen on Spotify
+Check out my music on Spotify: <a href="https://open.spotify.com/artist/6vE33O9Nm4LQATiYEM2JQb">Listen here</a>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=twojanazwauzytkownika&show_icons=true&theme=radical" alt="twojanazwauzytkownika's GitHub Stats" />
+</p>
