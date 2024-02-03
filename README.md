@@ -8,7 +8,7 @@
 
 <p align="center">I'm a solo musician and creator of the <strong>Human Tormention</strong> project.</p>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/6vE33O9Nm4LQATiYEM2JQb?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+Check out my music on Spotify: [Listen here](https://open.spotify.com/artist/6vE33O9Nm4LQATiYEM2JQb)
 
 
 <p align="center">
