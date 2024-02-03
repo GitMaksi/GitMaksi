@@ -3,7 +3,7 @@ https://app.daily.dev/maxii
 <table>
   <tr>
     <td>    
-    <a href="[https://app.daily.dev/DailyDevTips](https://app.daily.dev/maxii)"><img src="https://github.com/rebelchris/rebelchris/blob/master/devcard.svg" width="400" alt="GitMaksi's Dev Card"/></a>
+    <a href="[https://app.daily.dev/DailyDevTips](https://app.daily.dev/maxii)"><img src="https://github.com/GitMaksi/devcard.svg" width="400" alt="GitMaksi's Dev Card"/></a>
     </td>
     <td>
       <p>
