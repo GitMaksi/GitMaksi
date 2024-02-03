@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>
-      <a href="https://app.daily.dev/DailyDevTips">
+      <a href="[https://app.daily.dev/DailyDevTips]">
         <img src="https://github.com/GitMaksi/GitMaksi/blob/master/devcard.svg" width="400" alt="GitMaksi's Dev Card"/></a>
     </td>
     <td>
