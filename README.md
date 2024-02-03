@@ -16,6 +16,4 @@
 
 <a href="https://app.daily.dev/maxii"><img src="https://api.daily.dev/devcards/50aed314dde6487bb7471c8b87955477.png?r=808" width="400" alt="Maksymilian's Dev Card"/></a>
 
----
 
-⭐️ From [twojanazwauzytkownika](https://github.com/twojanazwauzytkownika)
