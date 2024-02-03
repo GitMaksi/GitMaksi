@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my GitHub Profile 👋, I'm Maksymilian!</h1>
+<h1 align="center">Welcome to my GitHub Profile 👋, I'm Maks!</h1>
 
 <p align="center">
   <a href="https://app.daily.dev/maxii">
@@ -7,29 +7,28 @@
 </p>
 
 <p align="center">
-  🔭 Currently working on several awesome open source projects!<br>
-  🌱 Learning new technologies and continuously improving my skills.<br>
-  👯 Looking to collaborate with other developers.<br>
-  🤔 Seeking help with advanced AI projects.<br>
-  💬 Ask me anything, happy to share my knowledge!<br>
-  📫 How to reach me: [Your email]<br>
-  ⚡ Fun fact: I love coffee and hackathons!<br>
+  Currently working on several projects!<br>
+  Learning new technologies and continuously improving my skills.<br>
+  Looking into advanced AI projects.<br>
+  Ask me anything, happy to share my knowledge!<br>
+  How to reach me: maksssudol@gmail.com<br>
 </p>
 
 <p align="center">
-  🏆 My Achievements:<br>
-  - Winner of a local hackathon<br>
-  - Co-creator of a popular open source project<br>
+  Education:<br>
+  Bachelor's degree in computer science - University of Economics in Katowice<br>
 </p>
 
 <p align="center">
-  🛠️ My Favorite Tools and Technologies:<br>
-  - JavaScript, React, Node.js<br>
-  - Python, TensorFlow, Keras<br>
+  Tools and Technologies:<br>
+  - JavaScript, Angular<br>
+  - Python, TensorFlow, Azure AI<br>
+  - .NET, C#, Azure Cloud <br>
 </p>
 
 <p align="center">
   🔗 Links to my social media:<br>
-  - [LinkedIn](Your LinkedIn link)<br>
-  - [Twitter](Your Twitter link)<br>
+  - [LinkedIn]https://www.linkedin.com/in/maks-sudo%C5%82-044927142/<br>
+  ## Human Tormention - Listen on Spotify
+  Check out my music on Spotify: [Listen here](https://open.spotify.com/artist/6vE33O9Nm4LQATiYEM2JQb)
 </p>
