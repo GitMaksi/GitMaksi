@@ -4,7 +4,7 @@
   <tr>
     <td>
       <a href="https://app.daily.dev/DailyDevTips">
-        <img src="https://github.com/GitMaksi/rebelchris/blob/master/devcard.svg" width="400" alt="GitMaksi's Dev Card"/></a>
+        <img src="https://github.com/GitMaksi/blob/master/devcard.svg" width="400" alt="GitMaksi's Dev Card"/></a>
     </td>
     <td>
       <p>
