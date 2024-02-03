@@ -1,10 +1,9 @@
 <h1 align="center">Welcome to my GitHub Profile 👋, I'm Maks!</h1>
-
+https://app.daily.dev/maxii
 <table>
   <tr>
-    <td>
-      <a>
-        <img src="https://github.com/GitMaksi/GitMaksi/blob/master/devcard.svg" width="400" alt="GitMaksi's Dev Card"/></a>
+    <td>    
+    <a href="[https://app.daily.dev/DailyDevTips](https://app.daily.dev/maxii)"><img src="https://github.com/GitMaksi/GitMaksi/blob/master/devcard.svg" width="400" alt="GitMaksi's Dev Card"/></a>
     </td>
     <td>
       <p>
