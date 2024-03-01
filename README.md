@@ -1,5 +1,4 @@
 <h1 align="center">Welcome to my GitHub Profile 👋, I'm Maks!</h1>
-https://app.daily.dev/maxii
 <table>
   <tr>
     <td>    
