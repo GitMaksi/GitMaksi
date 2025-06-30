@@ -18,9 +18,8 @@
       </p>
       <p>
         Tools and Technologies:<br>
-        - JavaScript, Angular<br>
-        - Python, TensorFlow, Azure AI<br>
-        - .NET, C#, Azure Cloud <br>
+        - .NET, Azure Cloud, C#<br>
+        - Python, TensorFlow<br>
       </p>
       <p>
         🔗 Links to my social media:<br>
